@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eascry", "Eascry\Eascry.csproj", "{C3C372BE-6534-44CB-883A-2DC6C33884FF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Eascry beta4.0", "Eascry beta4.0\Eascry beta4.0.vdproj", "{826B69E9-ADD8-4988-9533-D6D119E825EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3C372BE-6534-44CB-883A-2DC6C33884FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C372BE-6534-44CB-883A-2DC6C33884FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C372BE-6534-44CB-883A-2DC6C33884FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C372BE-6534-44CB-883A-2DC6C33884FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826B69E9-ADD8-4988-9533-D6D119E825EF}.Debug|Any CPU.ActiveCfg = Debug
+		{826B69E9-ADD8-4988-9533-D6D119E825EF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E653BCDB-A2BD-4BCE-95D9-A4DE197DBB08}
+	EndGlobalSection
+EndGlobal

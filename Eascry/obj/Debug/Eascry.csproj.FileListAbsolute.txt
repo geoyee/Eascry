@@ -1,0 +1,11 @@
+E:\C# file\Eascry\Eascry\bin\Debug\Eascry.exe.config
+E:\C# file\Eascry\Eascry\bin\Debug\Eascry.exe
+E:\C# file\Eascry\Eascry\bin\Debug\Eascry.pdb
+E:\C# file\Eascry\Eascry\obj\Debug\Eascry.csprojAssemblyReference.cache
+E:\C# file\Eascry\Eascry\obj\Debug\Eascry.Form1.resources
+E:\C# file\Eascry\Eascry\obj\Debug\Eascry.Properties.Resources.resources
+E:\C# file\Eascry\Eascry\obj\Debug\Eascry.csproj.GenerateResource.cache
+E:\C# file\Eascry\Eascry\obj\Debug\Eascry.csproj.CoreCompileInputs.cache
+E:\C# file\Eascry\Eascry\obj\Debug\Eascry.exe
+E:\C# file\Eascry\Eascry\obj\Debug\Eascry.pdb
+E:\C# file\Eascry\Eascry\obj\Debug\Eascry.Form2.resources
